@@ -1,0 +1,50 @@
+body {
+  font-size: 16px;
+  color:  #000;  
+  font-family: 'Oxygen', sans-serif;
+}
+#header-nav {
+  background-color: #E0E0E0;
+  border-top: 2px solid  #000;
+  border-bottom: 2px solid  #000;
+  margin: 0px;
+}
+
+.navbar-brand h1 { 
+  font-family: 'Lora', serif;
+  color:  #000;
+  font-size: 1em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0px;
+  line-height: .75;
+}
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+.navbar-brand p { 
+  color: #000;
+  font-size: 1em;
+}
+
+.container  {
+  margin-left: 0px;
+  vertical-align: middle;
+  width: 100%;
+  margin-bottom: -10px;
+
+}
+
+#collapsable-nav a {
+  text-align: center;
+  color:  #000;
+  border-bottom: 1px solid  #000;
+  line-height: .5;
+}
+
+.container .jumbotron  {
+  
+  background-color: #E0E0E0;
+  margin:10px;
+  padding: 10px;
+}
