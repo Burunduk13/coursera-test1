@@ -42,9 +42,14 @@ body {
   line-height: .5;
 }
 
-.container .jumbotron  {
-  
+.row {
+width: 100%;
+
+}
+.col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
   background-color: #E0E0E0;
-  margin:10px;
+  margin:15px;
   padding: 10px;
+  text-align: justify;
+
 }
